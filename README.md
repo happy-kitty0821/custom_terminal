@@ -65,11 +65,7 @@ This script uses the [Rich library](https://github.com/willmcgugan/rich) to crea
 
 ## Contact
 
-For any questions or inquiries, please contact [your-email-address].
+For any questions or inquiries, please contact np05cp4a220010@iic.edu.np.
 ```
-
-Make sure to replace `[your-username]`, `[repository-name]`, and `[your-email-address]` with your GitHub username, repository name, and email address, respectively.
-
-This README.md file provides an overview of your project, including installation instructions, usage guidelines, customization options, license information, and acknowledgments. Feel free to customize it further to include any additional information or sections that are relevant to your project.
 
 Let me know if there's anything else I can assist you with!
