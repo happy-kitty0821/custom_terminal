@@ -11,7 +11,7 @@ To run this script, you need to have the following installed:
 - Python (version 3.6 or above)
 - [Rich library](https://github.com/willmcgugan/rich)
 
-## Installation
+## Installation of this repositery into your local machine
 
 1. Clone the repository to your local machine:
 
@@ -22,7 +22,7 @@ To run this script, you need to have the following installed:
 2. Navigate to the project directory:
 
    ```shell
-   cd repository-name
+   cd custom_terminal
    ```
 
 3. Install the required dependencies:
@@ -40,7 +40,7 @@ To run this script, you need to have the following installed:
 3. Run the script:
 
    ```shell
-   python script.py
+   terminal.py
    ```
 
    The script will simulate the initiation and activation of a system, followed by the launch of a machine. You will see progress updates and a progress bar indicating the completion of each task.
