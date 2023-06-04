@@ -16,7 +16,7 @@ To run this script, you need to have the following installed:
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/happy-kitty0821/custom_terminal.git
    ```
 
 2. Navigate to the project directory:
