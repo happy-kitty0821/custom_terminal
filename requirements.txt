@@ -1,18 +1,3 @@
-
-```
-rich>=10.0.0
-```
-
-You can create a file named `requirements.txt` in your project directory and paste the above content into it. This file specifies the dependencies required for your code to run, specifically the `rich` library.
-
-To install the dependencies, you can use the following command:
-
-```shell
-pip install -r requirements.txt
-```
-This will install the required packages from the `requirements.txt` file.
-
-or alternatively you directely can run this command in your terminal
-'''shell
 pip install rich
-'''
+pip install termcolor
+pip install datetime
