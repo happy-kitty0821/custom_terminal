@@ -2,7 +2,8 @@
 
 A custom terminal is a command-line interface (CLI) tool that enhances the functionality and appearance of the terminal for a more personalized and efficient user experience.
 
-![Custom Terminal Screenshot](/path/to/screenshot.png)
+![Custom Terminal Screenshot]
+(This proje![image](https://github.com/happy-kitty0821/custom_terminal/assets/123139757/1e7e5e72-529c-4c0d-beb6-7b4868f966e9)
 
 ## Table of Contents
 
