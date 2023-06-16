@@ -1,71 +1,92 @@
-#custom terminal for liux and windows
+Certainly! Here's a professional README.md template for a project called "custom_terminal":
+
 ```markdown
-# System Initialization and Machine Activation
+# Custom Terminal
 
-This is a Python script that simulates the initiation and activation of a system, followed by the launch of a machine. It provides a visual representation of the progress using a progress bar.
+A custom terminal is a command-line interface (CLI) tool that enhances the functionality and appearance of the terminal for a more personalized and efficient user experience.
 
-## Prerequisites
+![Custom Terminal Screenshot](/path/to/screenshot.png)
 
-To run this script, you need to have the following installed:
+## Table of Contents
 
-- Python (version 3.6 or above)
-- [Rich library](https://github.com/willmcgugan/rich)
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-## Installation of this repositery into your local machine
+## Introduction
 
-1. Clone the repository to your local machine:
+Custom Terminal is a powerful tool designed to provide users with a highly customizable and feature-rich terminal environment. It allows users to personalize their terminal with custom themes, keybindings, and extensions, enabling a more productive workflow.
 
-   ```shell
-   git clone https://github.com/happy-kitty0821/custom_terminal.git
+## Features
+
+- **Custom Themes:** Choose from a wide range of pre-designed themes or create your own custom theme to personalize the appearance of your terminal.
+- **Keybindings:** Define custom keybindings for frequently used commands, shortcuts, or automation scripts to streamline your workflow.
+- **Extensions:** Extend the functionality of your terminal by installing and managing various extensions that enhance productivity and provide additional features.
+
+## Installation
+
+Follow these steps to install and set up Custom Terminal:
+
+1. Clone the Custom Terminal repository:
+
+   ```bash
+   $ git clone https://github.com/your_username/custom_terminal.git
    ```
 
 2. Navigate to the project directory:
 
-   ```shell
-   cd custom_terminal
+   ```bash
+   $ cd custom_terminal
    ```
 
 3. Install the required dependencies:
 
-   ```shell
-   pip install -r requirements.txt
+   ```bash
+   $ npm install
    ```
+
+4. Build the project:
+
+   ```bash
+   $ npm run build
+   ```
+
+5. Run Custom Terminal:
+
+   ```bash
+   $ npm start
+   ```
+
+For detailed installation instructions, troubleshooting tips, and alternative installation methods, refer to the [Installation Guide](/docs/installation.md).
 
 ## Usage
 
-1. Open a terminal or command prompt.
+Once Custom Terminal is installed, you can use the following commands to customize and utilize its features:
 
-2. Navigate to the project directory.
+- `custom_terminal theme [theme_name]`: Apply a specific theme to your terminal.
+- `custom_terminal keybinding [key] [command]`: Define a custom keybinding for a specific command or script.
+- `custom_terminal extension install [extension_name]`: Install a new extension to enhance the functionality of your terminal.
 
-3. Run the script:
-
-   ```shell
-   terminal.py
-   ```
-
-   The script will simulate the initiation and activation of a system, followed by the launch of a machine. You will see progress updates and a progress bar indicating the completion of each task.
-
-## Customization
-
-- You can modify the text and sleep durations in the script to suit your needs. Adjust the delays in `time.sleep()` to change the duration of each stage.
-
-- To customize the text colors in the progress bar, modify the color tags within the progress task strings. For example, to change the color of a task to red, use "[red]Task description...".
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+For a complete list of available commands and their usage, please refer to the [User Manual](/docs/user_manual.md).
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or would like to add new features, feel free to open a pull request.
+Contributions are welcome! If you want to contribute to Custom Terminal, please follow these guidelines:
 
-## Acknowledgements
+- Fork the repository and create a new branch for your feature or bug fix.
+- Ensure your code adheres to the existing coding style and best practices.
+- Submit a pull request describing the changes you've made and their purpose.
 
-This script uses the [Rich library](https://github.com/willmcgugan/rich) to create the progress bar and colorize the text output.
+For more information, please refer to the [Contribution Guidelines](/CONTRIBUTING.md).
 
-## Contact
+##This proje!
+[image](https://github.com/happy-kitty0821/custom_terminal/assets/123139757/1e7e5e72-529c-4c0d-beb6-7b4868f966e9)
 
-For any questions or inquiries, please contact np05cp4a220010@iic.edu.np.
+## License
+
+
+ct is licensed under the [MIT License](/LICENSE).
 ```
-
-Let me know if there's anything else I can assist you with!
