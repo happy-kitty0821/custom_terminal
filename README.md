@@ -1,6 +1,3 @@
-Certainly! Here's a professional README.md template for a project called "custom_terminal":
-
-```markdown
 # Custom Terminal
 
 A custom terminal is a command-line interface (CLI) tool that enhances the functionality and appearance of the terminal for a more personalized and efficient user experience.
