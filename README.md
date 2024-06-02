@@ -40,23 +40,6 @@ Follow these steps to install and set up Custom Terminal:
    $ cd custom_terminal
    ```
 
-3. Install the required dependencies:
-
-   ```bash
-   $ npm install
-   ```
-
-4. Build the project:
-
-   ```bash
-   $ npm run build
-   ```
-
-5. Run Custom Terminal:
-
-   ```bash
-   $ npm start
-   ```
 
 For detailed installation instructions, troubleshooting tips, and alternative installation methods, refer to the [Installation Guide](/docs/installation.md).
 
@@ -80,11 +63,9 @@ Contributions are welcome! If you want to contribute to Custom Terminal, please 
 
 For more information, please refer to the [Contribution Guidelines](/CONTRIBUTING.md).
 
-##This proje!
+##This project!
 [image](https://github.com/happy-kitty0821/custom_terminal/assets/123139757/1e7e5e72-529c-4c0d-beb6-7b4868f966e9)
 
 ## License
 
-
 ct is licensed under the [MIT License](/LICENSE).
-```
